@@ -1,0 +1,7 @@
+kurigram
+PyQt6
+yt-dlp
+Pillow
+aiohttp
+tgcrypto
+pyinstaller
